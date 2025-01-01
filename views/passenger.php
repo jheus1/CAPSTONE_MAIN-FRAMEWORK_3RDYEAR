@@ -22,7 +22,7 @@
       </div>
       <!-- Third row -->
       <div class="col-md-3">
-      <?php include './includes/col3.php'; ?>
+      <?php include '../includes/col3.php'; ?>
       </div>
    </body>
    <?php include '../includes/library1.php'; ?>
